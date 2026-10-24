@@ -27,6 +27,7 @@
     - [Videos & Images](#videos-&-images)
     - [Info](#info)
     - [Free API](#free-api)
+    - [Visual Builders](#visual-builders)
     - [Next Open Source Projects](#next-open-source-projects)
     - [Other Tools](#other-tools)
   - [React](#react)
@@ -57,7 +58,6 @@
     - [Testing](#testing)
     - [Documentation](#documentation)
     - [Type Checking](#type-checking)
-    - [Visual Builders](#visual-builders)
     - [Other Libraries](#other-libraries)
     - [DevTools](#devtools)
   - [Angular](#angular)
@@ -444,6 +444,16 @@
   8. [unsplash](https://unsplash.com/developers)
   9. [breakingbadapi](https://breakingbadapi.com/documentation)
   10. [random-data-api](https://random-data-api.com/documentation)
+
+- ## Visual Builders
+  1. [Instatic](https://github.com/CoreBunch/Instatic) - [Framer](https://www.framer.com/)
+  2. [Onlook](https://github.com/onlook-dev/onlook) - [Builder.io](https://www.builder.io/)
+  3. [Stacki](https://github.com/flowtricks/stacki) - [Ycode](https://github.com/ycode/ycode) - [Webflow](https://webflow.com/)
+  4. [Penpot](https://github.com/penpot/penpot) - [Figma](https://www.figma.com/)
+  5. [doory](https://github.com/shaongitbd/doory) - [Canva](https://www.canva.com/)
+  6. [Framely](https://github.com/belastrittmatter/Framely)
+  7. [craft.js](https://github.com/prevwong/craft.js)
+  8. [Codux](https://www.codux.com/)
 
 - ## Next Open Source Projects
   1. [Coolify](https://github.com/coollabsio/coolify) An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -834,16 +844,7 @@
 27. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-28. #### Visual Builders
-    - [Instatic](https://github.com/CoreBunch/Instatic) - [Framer](https://www.framer.com/)
-    - [Onlook](https://github.com/onlook-dev/onlook) - [Builder.io](https://www.builder.io/)
-    - [Stacki](https://github.com/flowtricks/stacki) - [Ycode](https://github.com/ycode/ycode) - [Webflow](https://webflow.com/)
-    - [Penpot](https://github.com/penpot/penpot) - [Figma](https://www.figma.com/)
-    - [doory](https://github.com/shaongitbd/doory) - [Canva](https://www.canva.com/)
-    - [Framely](https://github.com/belastrittmatter/Framely)
-    - [craft.js](https://github.com/prevwong/craft.js)
-    - [Codux](https://www.codux.com/)
-29. #### Other Libraries
+28. #### Other Libraries
     - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
@@ -856,7 +857,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-30. #### DevTools
+29. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
