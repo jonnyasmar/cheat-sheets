@@ -5,6 +5,7 @@
 
 - [API Clients](#api-clients)
 - [Database Clients](#database-clients)
+- [Free Hosing](#free-hosting)
 - [Frontend](#frontend)
   - [Useful Links](#useful-links)
     - [JavaScript Runtime](#javascript-runtime)
@@ -107,6 +108,20 @@
 11. [pgpad](https://github.com/vrmiguel/pgpad)
 12. [PostgreSQL](https://github.com/microsoft/vscode-pgsql)
 13. [awesome-sql](https://github.com/brandonhimpfen/awesome-sql)
+
+# Free Hosting
+
+- ## Frontend & Static Apps
+  1. [Surge](https://surge.sh/)
+  2. [Vercel](https://vercel.com/)
+  3. [Netlify](https://www.netlify.com/)
+  4. [GitHub Pages](https://docs.github.com/en/pages)
+  5. [Cloudflare Pages](https://www.cloudflare.com/products/pages/)
+- ## Backend & Full-Stack Apps
+  1. [Render](https://render.com/)
+  2. [Railway](https://railway.com/)
+  3. [Fly.io](https://fly.io/)
+  4. [Firebase Hosting](https://firebase.google.com/)
 
 # Frontend
 
